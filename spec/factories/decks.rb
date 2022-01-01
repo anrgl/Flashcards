@@ -3,6 +3,6 @@
 FactoryBot.define do
   factory :deck do
     title { 'Deck title' }
-    short_description { 'Deck short description' }   
+    short_description { 'Deck short description' }
   end
 end
